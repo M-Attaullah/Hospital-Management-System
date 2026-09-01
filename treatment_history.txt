@@ -1,0 +1,23 @@
+22,Ahsan,22,Nausea,D4,Mujeeb,2025-1-1 22:48:46
+21,Sami,19,Cough,D4,Mujeeb,2025-1-1 22:48:41
+20,Haris,20,Fever,D6,Awais,2025-1-1 22:46:23
+20,Haris,20,Fever,D3,Ali,2025-1-1 22:44:1
+21,Sami,19,Cough,D3,Ali,2025-1-1 22:43:49
+20,Wahab,19,Fever,D2,Haider,2025-1-1 12:26:35
+@4,Hammad,20,,,,,Fever,D2,Haider,2025-1-1 12:25:26
+23,Noman,20,,,,,Diarreha,D2,Haider,2025-1-1 12:25:18
+22,Hayat,22,,,,,Headache,D2,Haider,2025-1-1 12:23:35
+20,Wahab,19,Fever,D4,Shamil,2025-1-1 12:22:27
+23,Noman,20,,,,,Diarreha,D4,Shamil,2025-1-1 12:21:49
+
+20,Haris,21,,yes,D1,Ali,2024-12-31 23:31:2
+21,Salar,20,,Fever,D1,Ali,2024-12-31 23:31:14
+20,Haris,20,,Fever,D1,Ali,2025-1-1 0:1:36
+21,Saleh,19,,Cough,D1,Ali,2025-1-1 0:2:0
+22,Hayat,22,,Headache,D4,Shamil,2025-1-1 0:2:16
+21,Saleh,19,,Cough,D2,Haider,2025-1-1 0:2:56
+23,Noman,20,,,,Diarreha,D4,Shamil,2025-1-1 9:57:38
+20,Babar,20,Cough,D4,Mujeeb,2025-1-7 11:45:35
+21,Sami,19,,,,Cough,D5,Naseem,2025-1-7 11:48:13
+20,Babar,20,Cough,D3,Babar,2025-1-7 11:48:27
+20,Babar,20,Cough,D5,Naseem,2025-1-7 11:48:58

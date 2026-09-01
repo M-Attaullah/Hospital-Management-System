@@ -1,0 +1,4 @@
+20,Babar,20,,Cough
+21,Sami,19,,,,,Cough
+22,Ahsan,22,,,,,Nausea
+24,Hassan,18,,,,,Diarreha
