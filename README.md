@@ -281,10 +281,6 @@ Stores treatment history records containing patient and doctor information.
 HMS/
 │
 ├── main.cpp
-├── HMS.vcxproj
-├── HMS.vcxproj.filters
-├── HMS.vcxproj.user
-├── HMS.rc
 ├── resource.h
 │
 ├── patients.txt
